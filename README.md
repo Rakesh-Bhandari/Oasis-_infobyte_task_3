@@ -1,4 +1,4 @@
-
+![Screenshot 1](screenshots/password_gen_1.png)
 ## Password Generator 🔐
 
 A sleek and intuitive password generator application built using CustomTkinter and Python. This tool allows users to generate strong and secure passwords tailored to their preferences, ensuring online safety and data security.
@@ -21,7 +21,8 @@ A sleek and intuitive password generator application built using CustomTkinter a
 3. Run the application: `python password_generator.py`
 
 ### Screenshots:
-(Add some screenshots here to showcase the application)
+![Screenshot 2](screenshots/password_gen_2.png)
+![Screenshot 3](screenshots/password_gen_3.png)
 
 ### Contributions:
 Feel free to fork the project, create a pull request, or open an issue if you find a bug or have a feature request!
