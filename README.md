@@ -25,6 +25,7 @@ A sleek and intuitive password generator application built using CustomTkinter a
 ![Screenshot 2](screenshots/password_gen_2.png)
 ![Screenshot 3](screenshots/password_gen_3.png)
 ![Screenshot 4](screenshots/password_gen_4.png)
+![Screenshot 5](screenshots/password_gen_5.png)
 
 ### Contributions:
 Feel free to fork the project, create a pull request, or open an issue if you find a bug or have a feature request!
