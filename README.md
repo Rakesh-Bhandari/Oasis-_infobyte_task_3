@@ -16,7 +16,7 @@ A sleek and intuitive password generator application built using CustomTkinter a
 - **Pillow**: Handling image assets in the application.
 
 ### How to Run:
-1. Clone the repository: `git clone https://github.com/Rakesh-Bhandari/Oasis-_infobyte_task_3.git`
+1. Clone the repository: `git clone https://github.com/Rakesh-Bhandari/Random_Password_Generator_V2.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python password_generator.py`
 
